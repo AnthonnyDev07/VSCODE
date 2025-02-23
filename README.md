@@ -75,8 +75,8 @@
 - **Archivo:** `Ctrl + Shift + F`  
 
 ### Transformar Mayúscula o Minúscula
-- **Mayúscula:** `Ctrl + Alt + U`  
-- **Minúscula:** `Ctrl + Alt + L`  
+- **Minúscula:** `Ctrl + Alt + L` o `Shift + Alt + L`
+- **Mayúscula:** `Ctrl + Alt + U` o `Shift + Alt + U`
 
 ### Comando Code
 - Buscar en `Ctrl + Shift + P`  
